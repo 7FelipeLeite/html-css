@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/*Regra utilizada para evitar probleams com acentuações*/
+
+body {
+    background-color: darkmagenta;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+h1 {
+    color: brown;
+    background-color: rgb(3, 18, 27);
+}
+h2{
+    color: teal;
+}
+p {
+    text-align: justify;
+}
